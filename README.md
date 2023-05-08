@@ -1,6 +1,6 @@
 # ShoopingList
 
-This Code  implements a shopping list using a linked list data structure in C.  
+This Code  implements a shopping list using a linked list data structure in C (not C++)   
 
 The shopping list consists of items, each of which has a name and a price.  
 The program defines a struct called shopping_list which has fields for the name, price, and a pointer to the next item in the list.  
