@@ -8,7 +8,7 @@ DISCLAIMER
 #2 All the comments that explain how each part of the code works are found in the ShoopingList.c file.  
 #3 I made this code from scratch as a demonstration of how Linked Lists work in C Langauge.  
 
-LICENSE
+LICENSE  
 The user is free to use, modify, or reproduce the code and its derivatives.  
 
 
@@ -17,10 +17,10 @@ The user is free to use, modify, or reproduce the code and its derivatives.
 
 
 
-# ShoopingList
+Project: ShoopingList  
 
-This Code demonstrates how to implement a Shopping list using [ linked list ]
-data structure in C Languange.
+This Code demonstrates how to implement a Shopping list using [ linked list ]  
+data structure in C Languange.  
 
 Each item in the list has a name and a price.  
 The program defines a struct called shopping_list which has  
