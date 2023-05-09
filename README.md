@@ -17,7 +17,7 @@ The user is free to use, modify, or reproduce the code and its derivatives.
 
 
 
-Project : ShoopingList  
+Project : Shopping List  
 
 This Code demonstrates how to implement a Shopping list using [ linked list ]  
 data structure in C Languange.  
